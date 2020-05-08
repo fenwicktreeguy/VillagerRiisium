@@ -1,0 +1,12 @@
+  name: RiisiumPlugin
+  author: moopster_22
+  main: Main.MainRunner
+  version: 1.4.1
+  api-version: 1.15
+  description: allows for trading of custom Riisium Vouchers for enchantments we have put in the spawn with Master Riis(the patron of Reel-It-In Survival)
+  commands:
+    spawnRiis:
+      description: will spawn a Master Riis at given coordinates
+      usage: admin spawning of villager if it potentially dies
+
+
